@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" fill="none">
+  <!-- Luxury Botanical Floral Corner in Champagne Gold -->
+  <g stroke="#A58B61" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+    <!-- Main stem arching out -->
+    <path d="M 12 12 Q 40 85 85 140 T 180 230 T 280 275" />
+    <path d="M 12 12 Q 85 40 140 85 T 230 180 T 275 280" />
+    
+    <!-- Primary Rose Bloom -->
+    <path d="M 58 58 C 45 42 70 30 80 45 C 92 32 115 48 102 65 C 118 75 106 102 88 95 C 80 110 52 102 55 85 C 38 80 42 62 58 58 Z" fill="#F4F1EA" />
+    <path d="M 70 56 C 65 48 85 45 88 56 C 96 52 102 65 92 72 C 95 82 82 85 78 78 C 70 85 64 72 70 56 Z" />
+    <path d="M 76 62 Q 82 58 84 66 Q 80 72 76 62 Z" />
+
+    <!-- Secondary Rose Bloom -->
+    <path d="M 145 95 C 138 85 152 75 160 84 C 168 76 182 85 174 97 C 184 104 175 120 163 116 C 158 126 140 120 142 108 C 130 105 133 92 145 95 Z" fill="#F4F1EA" />
+    <path d="M 152 94 C 150 88 162 86 164 93 C 170 91 173 100 167 104 C 168 110 160 112 157 107 C 152 111 148 104 152 94 Z" />
+
+    <!-- Tertiary Bud -->
+    <path d="M 98 155 C 92 148 104 140 110 148 C 116 142 126 150 120 160 C 128 166 120 178 110 174 C 105 182 92 176 94 167 C 84 164 87 153 98 155 Z" fill="#F4F1EA" />
+
+    <!-- Leaves along main stem -->
+    <!-- Leaf 1 -->
+    <path d="M 32 25 C 20 40 25 65 45 60 C 52 45 42 22 32 25 Z" fill="#F4F1EA" fill-opacity="0.5" />
+    <path d="M 32 25 Q 38 45 45 60" />
+    <!-- Leaf 2 -->
+    <path d="M 25 32 C 40 20 65 25 60 45 C 45 52 22 42 25 32 Z" fill="#F4F1EA" fill-opacity="0.5" />
+    <path d="M 25 32 Q 45 38 60 45" />
+
+    <!-- Leaf 3 -->
+    <path d="M 92 40 C 110 22 135 30 130 50 C 112 55 95 48 92 40 Z" />
+    <path d="M 92 40 Q 112 42 130 50" />
+    
+    <!-- Leaf 4 -->
+    <path d="M 40 92 C 22 110 30 135 50 130 C 55 112 48 95 40 92 Z" />
+    <path d="M 40 92 Q 42 112 50 130" />
+
+    <!-- Leaf clusters extending outward -->
+    <path d="M 125 75 C 145 60 170 70 162 90 C 145 92 130 82 125 75 Z" />
+    <path d="M 125 75 Q 146 80 162 90" />
+
+    <path d="M 75 125 C 60 145 70 170 90 162 C 92 145 82 130 75 125 Z" />
+    <path d="M 75 125 Q 80 146 90 162" />
+
+    <!-- Eucalyptus styled round leaves -->
+    <ellipse cx="185" cy="140" rx="14" ry="9" transform="rotate(-30 185 140)" />
+    <ellipse cx="140" cy="185" rx="9" ry="14" transform="rotate(-30 140 185)" />
+    
+    <ellipse cx="220" cy="190" rx="15" ry="10" transform="rotate(-40 220 190)" />
+    <ellipse cx="190" cy="220" rx="10" ry="15" transform="rotate(-40 190 220)" />
+
+    <!-- Delicate berries / stamens -->
+    <circle cx="115" cy="28" r="2.5" fill="#A58B61" />
+    <circle cx="128" cy="22" r="2" fill="#A58B61" />
+    <circle cx="28" cy="115" r="2.5" fill="#A58B61" />
+    <circle cx="22" cy="128" r="2" fill="#A58B61" />
+    <circle cx="210" cy="120" r="2.2" fill="#A58B61" />
+    <circle cx="120" cy="210" r="2.2" fill="#A58B61" />
+    <circle cx="255" cy="235" r="2.5" fill="#A58B61" />
+    <circle cx="235" cy="255" r="2.5" fill="#A58B61" />
+
+    <!-- Flourish curling ends -->
+    <path d="M 12 12 Q 12 70 18 100" />
+    <path d="M 12 12 Q 70 12 100 18" />
+    <circle cx="12" cy="12" r="3" fill="#A58B61" />
+  </g>
+</svg>

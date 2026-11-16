@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="16" fill="#F4F1EA"/>
+  <rect x="6" y="6" width="116" height="116" rx="12" fill="none" stroke="#A58B61" stroke-width="4"/>
+  <rect x="12" y="12" width="104" height="104" rx="8" fill="none" stroke="#D8C8A9" stroke-width="1.5" stroke-opacity="0.8"/>
+  <circle cx="64" cy="18" r="3" fill="#A58B61"/>
+  <circle cx="64" cy="110" r="3" fill="#A58B61"/>
+  <text x="64" y="78" font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" font-size="46" font-style="italic" font-weight="600" fill="#55432F" text-anchor="middle" letter-spacing="1">N&amp;R</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 50" fill="none">
+  <g stroke="#A58B61" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left horizontal line tapering in -->
+    <path d="M 40 25 L 240 25" stroke-opacity="0.6" />
+    <path d="M 120 25 L 240 25" />
+    
+    <!-- Left botanical flourish -->
+    <path d="M 215 25 Q 225 14 238 18 Q 235 24 225 25" fill="#A58B61" fill-opacity="0.3" />
+    <path d="M 215 25 Q 225 36 238 32 Q 235 26 225 25" fill="#A58B61" fill-opacity="0.3" />
+    <circle cx="210" cy="25" r="2" fill="#A58B61" />
+
+    <!-- Center Ornament: Delicate Diamond & Flourish -->
+    <path d="M 270 25 Q 285 10 300 25 Q 285 40 270 25 Z" fill="#F4F1EA" stroke-width="1.2" />
+    <path d="M 330 25 Q 315 10 300 25 Q 315 40 330 25 Z" fill="#F4F1EA" stroke-width="1.2" />
+    <polygon points="300,17 308,25 300,33 292,25" fill="#A58B61" />
+    <circle cx="300" cy="25" r="2" fill="#F4F1EA" />
+    
+    <!-- Small dots -->
+    <circle cx="260" cy="25" r="1.8" fill="#A58B61" />
+    <circle cx="340" cy="25" r="1.8" fill="#A58B61" />
+
+    <!-- Right botanical flourish -->
+    <path d="M 385 25 Q 375 14 362 18 Q 365 24 375 25" fill="#A58B61" fill-opacity="0.3" />
+    <path d="M 385 25 Q 375 36 362 32 Q 365 26 375 25" fill="#A58B61" fill-opacity="0.3" />
+    <circle cx="390" cy="25" r="2" fill="#A58B61" />
+
+    <!-- Right horizontal line tapering out -->
+    <path d="M 360 25 L 560 25" stroke-opacity="0.6" />
+    <path d="M 360 25 L 480 25" />
+  </g>
+</svg>
